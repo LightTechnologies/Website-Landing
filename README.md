@@ -1,7 +1,3 @@
-# lightvpn.org
-LightVPN landing frontend, built using Bootstrap 5, HTML and CSS
-
-
 # LightVPN Website Landing
 The LightVPN website landing page, built with Bootstrap 5, HTML & CSS
 
